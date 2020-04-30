@@ -1,3 +1,3 @@
 # Articles
 
-This repository is a backup for Medium articles -  https://medium.com/@horatiujeflea
+This repository is a backup for Medium (and other) articles -  https://medium.com/@horatiujeflea
